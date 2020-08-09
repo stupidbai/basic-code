@@ -1,4 +1,4 @@
-package cn.itcast.day06;
+package cn.itcast.day06.demo01;
 
 import java.util.Arrays;
 
